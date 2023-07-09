@@ -15,7 +15,7 @@
 :root {
 	--accent-color: #1db954;
 	--accent-hover: #1ed760;
-	--accent-rgb: 29,185,84;
+	--accent-rgb: fc2200;
 	--accent-text-color: #fff; /*	-	*/
 
 	--chat-color: #121212;
@@ -35,7 +35,7 @@
 	--popout-radius: 7px;
 	--popout-radius-small: 3px; /*	-	*/
 
-	--input-color: #e0e0e0;
-	--input-text-color: #333;
-	--input-placeholder-color: #444;
+	--input-color: #272727;
+	--input-text-color: #e0e0e0;
+	--input-placeholder-color: #969696;
 }
